@@ -1,0 +1,8 @@
+[package]
+name = "lyceum"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+boxcar = "0.2.14"
+concurrent-queue = "2.5.0"
